@@ -1,0 +1,30 @@
+@charset"UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+
+
+
+
+* {
+    direction:rtl ;
+    font-family: "Vazirmatn", serif;
+    box-sizing: border-box;
+
+}
+
+
+
+
+.p-aval{
+    margin: 100px 10px 5px 10px;
+    background-color: fff fff fff;
+    border: 5px outset black;
+    border-radius: 10px;
+    box-shadow: -6px 7px 7px 0px;
+}
+
+
+
+
+
+
+
